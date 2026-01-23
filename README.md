@@ -104,6 +104,7 @@ Este enfoque permitió integrar información de comportamiento de vuelos con var
 - Se forzó la conversión de la variable a formato numérico.
 - Los valores inválidos y negativos se trataron como valores faltantes.
 - Dado que la distribución del salario presenta asimetría positiva, los valores faltantes se imputaron utilizando la **mediana**.
+- Se limpió la columna Points Accumulated, pues estaba en Float.
 
 ---
 
