@@ -71,6 +71,7 @@ En este notebook se realizó:
 **Dataset utilizado:** CLH  
 
 Preguntas respondidas:
+
 3. ¿Cuál es la distribución de los clientes por provincia o estado?  
 4. ¿Cómo se compara el salario promedio entre los diferentes niveles educativos de los clientes?  
 5. ¿Cuál es la proporción de clientes con diferentes tipos de tarjetas de fidelidad?  
