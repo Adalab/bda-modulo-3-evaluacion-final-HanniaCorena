@@ -96,6 +96,8 @@ Proceso:
 - Selección de variables relevantes (`Flights Booked`, `Education`)
 - Análisis descriptivo del número de vuelos por nivel educativo
 - Se respondió la pregunta planteada en el ejercicio.
+- Se añaden los gráficos idóneos para el análisis bivariado de variables categóricas y numéricas, un barplot y un boxplot.
+- Los gráficos no los pide el ejercicio pero se añaden para apoyar la conclusión
 
 Este enfoque permitió integrar información de comportamiento de vuelos con variables sociodemográficas.
 
