@@ -62,6 +62,7 @@ En este notebook se realizó:
 - Se limpió la columna Points Accumulated, pues estaba en Float
 - Visualizaciones (histogramas y scatter plots)
 - Análisis de relación entre variables de vuelos
+- Se respondieron las preguntas planteadas en el ejercicio.
 
 
 ---
@@ -80,6 +81,7 @@ En este notebook se realizó:
 - Tratamiento de valores negativos en la variable `Salary`
 - Imputación de valores faltantes utilizando la mediana
 - Análisis descriptivo y visualizaciones
+- Se respondieron las preguntas planteadas en el ejercicio.
 
 ---
 
@@ -93,6 +95,7 @@ Proceso:
 - Merge de ambos datasets utilizando `Loyalty Number` como clave
 - Selección de variables relevantes (`Flights Booked`, `Education`)
 - Análisis descriptivo del número de vuelos por nivel educativo
+- Se respondió la pregunta planteada en el ejercicio.
 
 Este enfoque permitió integrar información de comportamiento de vuelos con variables sociodemográficas.
 
